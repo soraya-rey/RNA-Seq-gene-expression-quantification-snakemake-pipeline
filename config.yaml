@@ -1,0 +1,3 @@
+raw_data_dir: "data/raw_fastq"
+output_dir: "data"
+reference_fasta: "data/reference/M_chelonae_transcripts.fasta"
